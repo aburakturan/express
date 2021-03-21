@@ -1,0 +1,8 @@
+module.exports = {
+    // APIKEY: 'Ibda0NTWiLnNaA7IqTjzoAEkwrfMgofif8qn8sFbJkzvPKrR0lAjKUv6uUxRE5XN',
+    APIKEY: '0o8vTST2w4uH5cOfwoGhBqFySy04jFHGQ9yHZHdESFFpyCWQDCnH9aaJSekVfDGq',
+    // APISECRET: 'Q1nKtWE85DP4RYypcHZxyhOz5oDoQph2OCoYbPGC6dwZH9HIkkRab9dbXWmEop0b'
+    APISECRET: 'PTdpxSlAFsbnY5Qn3djGvKWO2MPJF7wNpnSTdE7XWhQ0JIxODp5c18BC1MYfCZOn'
+};
+
+

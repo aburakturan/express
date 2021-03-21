@@ -1,0 +1,53 @@
+{
+    "name": "express-boilerplate",
+    "version": "1.0.0",
+    "description": "Simple boilerplate for expressjs",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "watch": "nodemon server.js"
+    },
+    "engines": {
+        "node": ">=10.8.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/giladno/express-boilerplate.git"
+    },
+    "keywords": [],
+    "author": "Gilad Novik <gilad@novik.ca>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/giladno/express-boilerplate/issues"
+    },
+    "homepage": "https://github.com/giladno/express-boilerplate#readme",
+    "devDependencies": {
+        "babel-eslint": "^10.0.1",
+        "eslint": "^5.15.3",
+        "eslint-plugin-node": "^8.0.1",
+        "nodemon": "^2.0.7"
+    },
+    "dependencies": {
+        "beeper": "^2.1.0",
+        "binance-api-node": "^0.10.34",
+        "chalk": "^4.1.0",
+        "cookie-session": "^2.0.0-beta.3",
+        "crypto": "^1.0.1",
+        "dotenv": "^8.2.0",
+        "ejs": "^2.6.1",
+        "express": "^4.16.4",
+        "filter-obj": "^2.0.1",
+        "longjohn": "^0.2.12",
+        "mongodb": "^3.6.5",
+        "mongoose": "^5.12.1",
+        "morgan": "^1.9.1",
+        "mysql": "^2.18.1",
+        "node-binance-api": "^0.12.5",
+        "node-fetch": "^2.6.1",
+        "redis": "^3.0.2",
+        "require-all": "^3.0.0",
+        "sequelize": "^5.2.6",
+        "sqlite3": "^4.0.6",
+        "winston": "^3.2.1"
+    }
+}
